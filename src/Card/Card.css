@@ -1,0 +1,13 @@
+.infoCard {
+    float: left;
+    border-width: 2px;
+    border-style: solid;
+    width: 300px;
+    height: auto;
+}
+
+.cardImage {
+    height: 200px;
+    width: 80%;
+    object-fit: contain;
+}
