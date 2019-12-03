@@ -2,3 +2,14 @@
   text-align: center;
 }
 
+.formLabel {
+  width: 30%;
+  margin: 10px 0px;
+  display: inline-block;
+}
+
+#newCardForm {
+  clear: both;
+  width: 80%;
+  margin: 0 auto;
+}
